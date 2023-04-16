@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "deliveroo-clone",
-    "slug": "deliveroo-clone",
+    "slug": "baan",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7bcbb60c-160e-49fd-997f-66799e60f074"
+      }
+    },
+    "owner": "daniel-adekunle"
   }
 }
